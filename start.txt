@@ -1,0 +1,5 @@
+cd /Users/dddanyaaa/Desktop/Programming/Даник/Лабараторные/3SEM/WorkZacehtPashkov
+
+g++ -o prog main.cpp MusicComposition.cpp Music.cpp Remake.cpp
+
+./prog
